@@ -1,3 +1,16 @@
+Welcome to the official HerculonAI community! 🚀
+
+We’re excited to have you here! Stay up to date with all things HerculonAI and join the conversation. Here’s where you can follow us and stay connected:
+
+🔹 Website: https://herculonai.xyz/
+🔹 Twitter: https://x.com/HerculonAI
+🔹 GitHub: https://github.com/crdcoder/HerculonAI
+🔹 Telegram Anti-Bot Verification: https://t.me/HerculonAI
+🔹 Telegram Chat: https://t.me/+Vy0XBdsNIz8yZmVi
+🔹 Telegram News: https://t.me/+vD5HbexhoX03N2Qy
+
+Stay tuned for exciting updates and developments! 💡
+
 # HerculonAI: Revolutionizing Blockchain with Quantum Computing and AI
 
 ## Overview
